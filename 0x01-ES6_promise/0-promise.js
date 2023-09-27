@@ -1,2 +1,3 @@
 export default function getResponseFromAPI() {
-  return ne
+  return new Promise(() => {});
+}
